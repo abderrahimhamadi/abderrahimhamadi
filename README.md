@@ -20,8 +20,16 @@ I'm a Data Science and Engineering student at INPT Rabat, passionate about lever
   - **LinkedIn:** [linkedin.com/in/hamadi-abderrahim-a87585256]
   - **Email:** [abderrahim@hamadi.one]
 
+![Profile views](https://komarev.com/ghpvc/?username=abderrahimhamadi&color=blue)
 
-![Abderrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=abderrahimhamadi&show_icons=true&theme=radical)
+![Abderrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abderrahimhamadi&show_icons=true&theme=dark)
+![Abderrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abderrahimhamadi&show_icons=true&theme=radical)
+![Abderrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abderrahimhamadi&show_icons=true&theme=merko)
+![Abderrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abderrahimhamadi&show_icons=true&theme=gruvbox)
+![Abderrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abderrahimhamadi&show_icons=true&theme=highcontrast)
+![Abderrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abderrahimhamadi&show_icons=true&theme=dracula)
+
+![Abderrahim's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahimhamadi&layout=compact&theme=radical)
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -32,7 +40,6 @@ I'm a Data Science and Engineering student at INPT Rabat, passionate about lever
 
 ### Recent Projects:
 - [Computor Vision ParkingLot_spots](https://github.com/abderrahimhamadi/ParkingLot-Visualization)
-- [Ensemble Learning Applied to Medical Data]([https://github.com/abderrahimhamadi/Ensemble-Learning-Applied-to-Medical-Data)
+- [Ensemble Learning Applied to Medical Data](https://github.com/abderrahimhamadi/Ensemble-Learning-Applied-to-Medical-Data)
 
 Feel free to browse through my repositories and get in touch if you find something interesting!
-
